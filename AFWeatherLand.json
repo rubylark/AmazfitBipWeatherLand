@@ -9,15 +9,15 @@
   "Time": {
     "Hours": {
       "Tens": {
-        "X": 23,
-        "Y": 7,
+        "X": 0,
+        "Y": 0,
         "ImageIndex": 76,
         "ImagesCount": 3
       },
       "Ones": {
-        "X": 46,
-        "Y": 95,
-        "ImageIndex": 1,
+        "X": 0,
+        "Y": 0,
+        "ImageIndex": 79,
         "ImagesCount": 10
       }
     },
