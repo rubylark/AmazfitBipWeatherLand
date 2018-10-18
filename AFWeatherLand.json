@@ -9,10 +9,10 @@
   "Time": {
     "Hours": {
       "Tens": {
-        "X": 24,
-        "Y": 95,
+        "X": 23,
+        "Y": 7,
         "ImageIndex": 76,
-        "ImagesCount": 2
+        "ImagesCount": 3
       },
       "Ones": {
         "X": 46,
@@ -35,12 +35,6 @@
         "ImagesCount": 10
       }
     },
-	"AmPm" : { 
-		"X": 142,
-		"Y": 117,
-		"ImageIndexAm":68,
-		"ImageIndexPm":69
-	}
   },
   "Activity": {
     "Steps": {
