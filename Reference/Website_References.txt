@@ -2,3 +2,15 @@ Reference Websites:
 
 Weather Icons:
 https://v1ack.github.io/watchfaceEditor/
+
+Best Bin Extractor:
+https://bitbucket.org/valeronm/amazfitbiptools/downloads/
+
+Collaborative Bin Extractor:
+https://github.com/amazfitbip/tools/blob/master/README.md
+
+How to use the collaborative bin extractor:
+https://amazfitcentral.com/2017/12/03/amazfit-bip-guide-create-bin-file/
+
+Ultimate Bip Guide:
+https://forum.xda-developers.com/smartwatch/amazfit/bip-custom-watchface-music-controls-t3746967
