@@ -11,13 +11,13 @@
       "Tens": {
         "X": 0,
         "Y": 0,
-        "ImageIndex": 76,
+        "ImageIndex": 1,
         "ImagesCount": 3
       },
       "Ones": {
         "X": 0,
         "Y": 0,
-        "ImageIndex": 79,
+        "ImageIndex": 4,
         "ImagesCount": 10
       }
     },
@@ -25,13 +25,13 @@
       "Tens": {
         "X": 83,
         "Y": 95,
-        "ImageIndex": 1,
+        "ImageIndex": 77,
         "ImagesCount": 10
       },
       "Ones": {
         "X": 109,
         "Y": 95,
-        "ImageIndex": 1,
+        "ImageIndex": 77,
         "ImagesCount": 10
       }
     },
@@ -44,7 +44,7 @@
       "BottomRightY": 168,
       "Alignment": "TopRight",
       "Spacing": 1,
-      "ImageIndex": 11,
+      "ImageIndex": 14,
       "ImagesCount": 10
     },
 	"Pulse": {
@@ -54,7 +54,7 @@
       "BottomRightY": 168,
       "Alignment": "TopLeft",
       "Spacing": 1,
-      "ImageIndex": 11,
+      "ImageIndex": 14,
       "ImagesCount": 10
     },
   },
@@ -68,7 +68,7 @@
           "BottomRightY": 156,
           "Alignment": "TopLeft",
           "Spacing": -29,
-          "ImageIndex": 21,
+          "ImageIndex": 24,
           "ImagesCount": 10
         },
         "Day": {
@@ -78,7 +78,7 @@
           "BottomRightY": 154,
           "Alignment": "TopRight",
           "Spacing": 1,
-          "ImageIndex": 11,
+          "ImageIndex": 14,
           "ImagesCount": 10
         }
       },
@@ -88,7 +88,7 @@
     "WeekDay": {
       "X": 28,
       "Y": 142,
-      "ImageIndex": 31,
+      "ImageIndex": 34,
       "ImagesCount": 7
     }
   },
@@ -97,7 +97,7 @@
       "CustomIcon": {
         "X": 0,
         "Y": 0,
-        "ImageIndex": 40,
+        "ImageIndex": 41,
         "ImagesCount": 26
       }
     },
@@ -110,11 +110,11 @@
           "BottomRightY": 154,
           "Alignment": "TopRight",
           "Spacing": 1,
-          "ImageIndex": 11,
+          "ImageIndex": 14,
           "ImagesCount": 10
         },
-        "MinusImageIndex": 66,
-        "DegreesImageIndex": 67
+        "MinusImageIndex": 67,
+        "DegreesImageIndex": 68
       }
     }
   },
@@ -122,7 +122,7 @@
     "Icon": {
       "X": 10,
       "Y": 134,
-      "ImageIndex": 70,
+      "ImageIndex": 71,
       "ImagesCount": 6
     }
   }
