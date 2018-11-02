@@ -118,6 +118,29 @@
       }
     }
   },
+  "Status": {
+    "Bluetooth": {
+      "Coordinates": {
+        "X": 45,
+        "Y": 158
+      },
+      "ImageIndexOn": 87
+    },
+    "Lock": {
+      "Coordinates": {
+        "X": 12,
+        "Y": 158
+      },
+      "ImageIndexOff": 89
+    },
+    "DoNotDisturb": {
+      "Coordinates": {
+        "X": 30,
+        "Y": 158
+      },
+      "ImageIndexOn": 88
+    }
+  },
   "Battery": {
     "Icon": {
       "X": 10,
