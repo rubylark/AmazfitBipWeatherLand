@@ -1,0 +1,10 @@
+Amazfit Bip Notes:
+
+* the bezel covers 2 pixels on all sides.
+
+Tips for reducing .bin file size:
+* convert to indexed mode to prevent AmazfitBip Tools from dithering. If dithering is required, extract the bin again to get source files that are already indexed and dithered and don't require the script to dither again.
+* sometimes the file size isn't updated after regenerating a bin. Delete the old .bin file that's too big to force it to generate a new bin.
+* cut stuff out. More alpha means less .bin file size.
+
+
