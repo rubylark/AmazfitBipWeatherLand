@@ -8,3 +8,5 @@ Tips for reducing .bin file size:
 * cut stuff out. More alpha means less .bin file size.
 
 
+*Image for the seconds digits, height can not exceed 24 pixels.
+    - source: https://amazfitwatchfaces.com/forum/viewtopic.php?f=6&t=223
